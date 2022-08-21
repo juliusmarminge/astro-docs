@@ -1,5 +1,7 @@
 # Astro Starter Kit: Docs Site
 
+A better starting point for your documentation site using Astro. See the PR here: https://github.com/withastro/astro/pull/4355
+
 ```bash
 npm init astro -- --template docs
 ```
